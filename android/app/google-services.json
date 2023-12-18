@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "654387708612",
+    "project_id": "firestore-ebdb9",
+    "storage_bucket": "firestore-ebdb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654387708612:android:75901de08e9f5de7257f91",
+        "android_client_info": {
+          "package_name": "com.firestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSUthA8iZlT94Yqhk8WV__7jmYtdo2oSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
